@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          todo-app
+          todo-app dev
         </a>
       </header>
     </div>
